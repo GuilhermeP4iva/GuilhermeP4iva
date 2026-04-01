@@ -32,23 +32,3 @@ ______________________________
 
  ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GIT HUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![GIT LAB](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
-
-
-### 🤔 Estatísticas 📊
-_______________________________
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cleibp&show_icons=true&theme=transparent)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cleibp&layout=compact)](https://github.com/cleibp/github-readme-stats)
-
-
-<!--
-- 💬 Ask me about ...
--->
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/cleibp/pacman-view/blob/main/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/cleibp/pacman-view/blob/main/pacman-contribution-graph.svg">
-  <img alt="Pacman Contribution Graph" src="https://github.com/cleibp/pacman-view/blob/main/pacman-contribution-graph.svg">
-</picture>
